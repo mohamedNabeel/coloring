@@ -1,0 +1,4 @@
+.separator .line{
+    -fx-border-width: 3;
+    -fx-border-color: royalblue;
+}
